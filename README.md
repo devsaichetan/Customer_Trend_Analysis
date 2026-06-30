@@ -165,10 +165,10 @@ Interactive Power BI dashboard includes:
 
 
 
-```
+
 <img width="1366" height="748" alt="image" src="https://github.com/user-attachments/assets/75c531ea-ffd6-4fc2-871e-62aaa3e615e0" />
 
-```
+
 
 ---
 
